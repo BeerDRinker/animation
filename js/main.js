@@ -1,1 +1,1 @@
-"use strict";
+"use strict";$(document).ready(function(){$(".point").hover(function(){$(this).addClass("point-name-show")},function(){$(this).removeClass("point-name-show")}),$(".point").click(function(){$(this).toggleClass("point-borders")})});
